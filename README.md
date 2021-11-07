@@ -24,10 +24,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Django E - Commerce</h3>
+<h3 align="center">React Chat Application</h3>
 
   <p align="center">
-    Fully functional ecommerce website with user and guest checkout capabilities.
+     React Chat App. With online statuses, clean design and functionality, icons telling you who read the message, image support, sound notifications, the ability to create  multiple rooms.
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
