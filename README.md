@@ -61,7 +61,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://venditti-ecom-demo.herokuapp.com/#/)
+[![Product Name Screen Shot][product-screenshot]]()
+[![Product Name Screen Shot][product-screenshot2]]()
 
 
 <!--
@@ -72,7 +73,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 ### Built With
-[Django](https://www.djangoproject.com/)
+[React JS](https://reactjs.org/)
 <!--
 * [Next.js](https://nextjs.org/)
 * [React.js](https://reactjs.org/)
@@ -226,3 +227,4 @@ Visit My Portfolio:[Here](https://gianlucavenditti.com/)
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/gianlucavenditti-/
 [product-screenshot]: images/chatapp2.png
+[product-screenshot2]: images/chatApp1.png
