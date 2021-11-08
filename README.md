@@ -23,7 +23,7 @@
 <h3 align="center">React Chat Application</h3>
 
   <p align="center">
-     React Chat App. With online statuses, clean design and functionality, icons telling you who read the message, image support, sound notifications, the ability to create  multiple rooms.
+     React Chat App: With online statuses, clean design and functionality, icons telling you who read the message, image support, sound notifications, the ability to create  multiple rooms.
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
