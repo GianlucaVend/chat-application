@@ -21,7 +21,7 @@
   </a>
 
 <h3 align="center">React Chat Application</h3>
-
+ 
   <p align="center">
      React Chat App: With online statuses, clean design and functionality, icons telling you who read the message, image support, sound notifications, the ability to create  multiple rooms.
     <br />
@@ -123,7 +123,7 @@ This is an example of how to list things you need to use the software and how to
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-under construction!!!!
+under construction!
 
 
 _For more examples, please refer to the [Documentation](https://docs.djangoproject.com/en/3.2/)_
